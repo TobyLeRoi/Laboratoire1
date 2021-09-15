@@ -1,0 +1,14 @@
+{
+  "name": "laboratoire1",
+  "version": "1.0.0",
+  "description": "laboratoire 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Tardif",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
